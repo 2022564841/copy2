@@ -1,5 +1,5 @@
 {
-    "title": "随风起の主页",
+    "title": "Base",
     "description": "一个默默无闻的主页",
     "keywords": "随风起,个人主页",
     "author": "随风起",
@@ -29,7 +29,7 @@
     "link_4": [
         "https://www.bywind.xyz/",
         "fa-solid fa-compass",
-        "起始页"
+        "123"
     ],
     "link_5": [
         "https://blog.bywind.xyz/stars/",
